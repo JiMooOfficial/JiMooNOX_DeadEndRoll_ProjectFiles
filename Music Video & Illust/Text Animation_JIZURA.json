@@ -1,0 +1,3825 @@
+{
+ "version": 1,
+ "timingOrder": 2,
+ "themeId": "lyricpv",
+ "title": "",
+ "artist": "",
+ "lyrics": "どれだけ酷い感情を\n推敲し磨いても\n救いとやらにはまだまだ\n程遠いままで\n\n正解の真似をしたって\n結局は僕のじゃない\n間違いを恐れすぎて\n何も選べない\n\nいつか報われると\n根拠もない\n言葉を抱いて\n存在したい\nわけじゃないよ\n\n終わらぬ\n苛立ちに\n「存在証明」\nと名付ける\n「未完成」\nと\n句点を打って\n安易に\n全てを括った\n生きる意味など\n忘れた\n永い夜の中で\n言葉は死ぬように\n無念を残し消えた\n\nVOCAL：初音ミク\nSONG：JiMooNOX\nILLUST：JiMooNOX\nVIDEO：JiMooNOX\n\n磨り減る心\n絞る言葉は灰になる\n映る亡霊の顔が\n「お前誰なんだ」と問う\n\n生と死を乞う螺旋の中\n意識が崩れ去る\n独白は膨らみ続け\n怪物になった\n\n終わらぬ\n傷口に\n「存在証明」\nと名付ける\n「未完成」\nと\n句点を打って\nそして丸めて捨てた\n偽りの曙光に縋って\n不器用に祈るのさ\n全ては夢だった\nのだと嘲笑ってる\n\n救われたいと願った\nつまらぬロマンチシズムに殺された\n誰も聞かず\n誰も見ない\n\n呼吸は止まり\n声も音も\nすべて消えていく\n引き裂いて\n全部投げ捨てた\n\nいつか報われると\n根拠もない言葉を抱いて\nただ消えられないだけだよ\n\n未完成のファイル\n書きかけの言葉\nまだ響いてる\n\n終わらぬ\n悔しさに\n「存在証明」\nと名付ける\n「未完成」\nと\n句点を打って\nそして静かに消えた\n誰の心にも届かない歌を抱いてた\nこの愚かさを\n皆に押し付けてゆく\n\n終わらぬ\n脆弱さに\n「存在証明」\nと名付ける\n「未完成」\nと\n句点を打って\n囁きに溶けていく\n誰も知らないままに\n奏でた終章の中で\nこの世界から\n跡形もなく消えた",
+ "style": "hud",
+ "mood": null,
+ "extra": true,
+ "wa": true,
+ "horror": true,
+ "typo": true,
+ "kinetic": true,
+ "lang": "auto",
+ "keyBg": "black",
+ "unify": false,
+ "typeset": true,
+ "centerDir": "tb",
+ "centerFree": false,
+ "seed": 921964217,
+ "aspect": "16:9",
+ "res": 1080,
+ "fps": 60,
+ "fx": {
+  "motion": 0.17,
+  "glitch": 0,
+  "chroma": 0,
+  "decor": 0,
+  "density": 0,
+  "texture": 0,
+  "flash": false,
+  "onTwos": false,
+  "koma": 0,
+  "hud": "off",
+  "bgSwitch": 0,
+  "hideNo": true,
+  "hideTime": true
+ },
+ "enabled": {
+  "layout": {
+   "hrFlashlight": false,
+   "hrDoorGap": false,
+   "hrWallScrawl": false,
+   "hrCctv": false,
+   "hrOuija": false,
+   "hrMissing": false,
+   "hrWrongOne": false,
+   "hrRisingDark": false,
+   "hrRedacted": false,
+   "hrStaticTv": false,
+   "hrSpiritPhoto": false,
+   "hrWrongShadow": false,
+   "center": true,
+   "mixed": false,
+   "vcols": false,
+   "marquee": false,
+   "tile": false,
+   "scatter": false,
+   "ring": false,
+   "wave": false,
+   "huge": false,
+   "labels": false,
+   "condensed": false,
+   "gloss": false,
+   "type": false,
+   "diag": false,
+   "circle": false,
+   "stack": false,
+   "pill": false,
+   "knSlamStack": false,
+   "knQuarterTurn": false,
+   "knSwapCenter": false,
+   "knZoomDive": false,
+   "knFlowSnap": false,
+   "knSeesaw": false,
+   "knTypeSlam": false,
+   "knRhythmCuts": false,
+   "knPathRide": false,
+   "knGearWords": false,
+   "knCollide": false,
+   "knTumble": false,
+   "knReflow": false,
+   "knPadGrid": false,
+   "lowerThird": false,
+   "corners": false,
+   "staircase": false,
+   "zigzag": false,
+   "arcTop": false,
+   "spiral": false,
+   "gridCells": false,
+   "dropCap": false,
+   "justified": false,
+   "frameBox": false,
+   "bubble": false,
+   "subtitleBar": false,
+   "ticker": false,
+   "splitScreen": false,
+   "mirror": false,
+   "sideways": false,
+   "edgeFrame": false,
+   "perspective": false,
+   "hanko": false,
+   "genkou": false,
+   "panels": false,
+   "filmstrip": false,
+   "quote": false,
+   "ruler": false,
+   "searchBar": false,
+   "chat": false,
+   "notification": false,
+   "ticket": false,
+   "rain": false,
+   "hanging": false,
+   "orbit": false,
+   "tunnel": false,
+   "wordCloud": false,
+   "bounceLine": false,
+   "elastic": false,
+   "crossBands": false,
+   "stickerBomb": false,
+   "neon": false,
+   "keycaps": false,
+   "bubbles": false,
+   "slotMachine": false,
+   "flipBoard": false,
+   "credits": false,
+   "zoomRepeat": false,
+   "splitHalves": false,
+   "columnsBig": false,
+   "circleWords": false,
+   "dotMatrix": false,
+   "depthStack": false,
+   "typeSpecimen": false,
+   "kanjiFocus": false,
+   "halfVertical": false,
+   "curtain": false,
+   "equalizer": false,
+   "tape": false,
+   "magazine": false,
+   "headlineDeck": false,
+   "contents": false,
+   "footnote": false,
+   "proofread": false,
+   "numbered": false,
+   "poster": false,
+   "swissGrid": false,
+   "dictionary": false,
+   "ema": false,
+   "ransom": false,
+   "newspaper": false,
+   "vinyl": false,
+   "cassette": false,
+   "bookSpine": false,
+   "polaroid": false,
+   "stampSheet": false,
+   "postcard": false,
+   "letterPaper": false,
+   "calendar": false,
+   "chochin": false,
+   "routeMap": false,
+   "stationSign": false,
+   "noren": false,
+   "tanzaku": false,
+   "omikuji": false,
+   "kakejiku": false,
+   "shoji": false,
+   "clapper": false,
+   "warningLabel": false,
+   "priceTag": false,
+   "nameTag": false,
+   "stickyNotes": false,
+   "karuta": false,
+   "cube": false,
+   "cylinder": false,
+   "flipCards": false,
+   "accordion": false,
+   "flag": false,
+   "ribbon": false,
+   "pendulum": false,
+   "pile": false,
+   "blocks": false,
+   "balloons": false,
+   "magnets": false,
+   "tiles": false,
+   "bulbs": false,
+   "ledScroll": false,
+   "billboard": false,
+   "crowdBubbles": false,
+   "crossword": false,
+   "wordSearch": false,
+   "puzzle": false,
+   "shadowPlay": false,
+   "kaleido": false,
+   "dominoes": false,
+   "burst": false,
+   "fisheye": false,
+   "wall": false,
+   "origami": false,
+   "zipper": false,
+   "sliceStack": false,
+   "glitchGrid": false,
+   "mosaicTiles": false,
+   "maskReveal": false,
+   "contour": false,
+   "halftoneBig": false,
+   "stencil": false,
+   "tyKeySplit": false,
+   "tyCropGiant": false,
+   "tyCross": false,
+   "tyBandHide": false,
+   "tyRuby": false,
+   "tyBaseline": false,
+   "tyScaleSteps": false,
+   "tyJustify": false,
+   "tyIndexTable": false,
+   "tySplitType": false,
+   "tyErode": false,
+   "tyVRuler": false,
+   "tyFullTrack": false,
+   "tyStatCount": false,
+   "tyMargin": false,
+   "tyRotBlock": false,
+   "tySquare": false,
+   "tyLineFocus": false
+  },
+  "enter": {
+   "hrBlinkCreep": false,
+   "hrJumpScare": false,
+   "hrUneasy": false,
+   "hrVhold": false,
+   "hrMirrorSnap": false,
+   "hrManifest": false,
+   "hrClawReveal": false,
+   "cut": false,
+   "assemble": false,
+   "slice": false,
+   "type": false,
+   "pop": false,
+   "drop": false,
+   "stretch": false,
+   "wipe": false,
+   "blur": false,
+   "spin": false,
+   "flicker": false,
+   "scramble": false,
+   "zoom": false,
+   "riseMask": false,
+   "dropMask": false,
+   "slideL": false,
+   "slideR": false,
+   "slideWhole": false,
+   "flipX": false,
+   "flipY": false,
+   "domino": false,
+   "fold": false,
+   "unroll": false,
+   "strokeDraw": false,
+   "outlineFill": false,
+   "splitJoin": false,
+   "vSlice": false,
+   "shutter": false,
+   "iris": false,
+   "diagWipe": false,
+   "blinds": false,
+   "checker": false,
+   "randomOrder": false,
+   "bounceBig": false,
+   "squashDrop": false,
+   "rubber": false,
+   "glitchIn": false,
+   "echoIn": false,
+   "whip": false,
+   "skewIn": false,
+   "trackIn": false,
+   "trackOut": false,
+   "blurStagger": false,
+   "fadeStagger": false,
+   "waveIn": false,
+   "spiralIn": false,
+   "zoomOut": false,
+   "resolve": false,
+   "magnet": false,
+   "inkBleed": false,
+   "neonOn": false,
+   "cursorSweep": false,
+   "stamp": false,
+   "springIn": false,
+   "pendulum": false,
+   "rollIn": false,
+   "slingshot": false,
+   "rockSettle": false,
+   "bounceBall": false,
+   "snapRail": false,
+   "fanOpen": false,
+   "cylinder": false,
+   "shuffle": false,
+   "stopMotion": false,
+   "ripple": false,
+   "zipper": false,
+   "zoomAlt": false,
+   "tiltUp": false,
+   "stickerPeel": false,
+   "crumple": false,
+   "noteUnfold": false,
+   "tornJoin": false,
+   "splitFlap": false,
+   "overexpose": false,
+   "glint": false,
+   "loupe": false,
+   "filmFeed": false,
+   "backlight": false,
+   "lightLeak": false,
+   "heatHaze": false,
+   "crtOn": false,
+   "interlace": false,
+   "loadingBar": false,
+   "dither": false,
+   "odometer": false,
+   "matrixRain": false,
+   "hatchFill": false,
+   "brushReveal": false,
+   "inkDrop": false,
+   "quarters": false,
+   "invertBox": false,
+   "printRegister": false,
+   "echoCount": false,
+   "liquidFill": false,
+   "windBlown": false,
+   "strokeOrder": false,
+   "clockWipe": false,
+   "shadowFirst": false,
+   "bubbles": false,
+   "tokoroten": false,
+   "knWordSlam": false,
+   "knTypeToSlam": false,
+   "knReplaceIn": false,
+   "knHingeDrop": false,
+   "knLoopIn": false,
+   "knPushIn": false,
+   "knInertia": false,
+   "knWordSpin": false,
+   "knDiveIn": false,
+   "knStretchOut": false,
+   "tyKeyFirst": false,
+   "tyLineWipe": false,
+   "tyZoomOne": false,
+   "tyUnderLift": false,
+   "tyDotGrow": false,
+   "tyBracketOpen": false,
+   "tyRetype": false,
+   "tyRubyDrop": false
+  },
+  "hold": {
+   "hrTwitch": false,
+   "hrStare": false,
+   "hrLagOne": false,
+   "hrFlickerLight": false,
+   "still": false,
+   "jitter": false,
+   "drift": false,
+   "breathe": false,
+   "wave": false,
+   "glitchtick": false,
+   "float": false,
+   "sway": false,
+   "pulse": false,
+   "shimmer": false,
+   "colorRun": false,
+   "rotateSlow": true,
+   "trackBreathe": false,
+   "skewWobble": false,
+   "beatHop": false,
+   "hWave": false,
+   "heartbeat": false,
+   "orbitSmall": false,
+   "jelly": false,
+   "scanBand": false,
+   "noiseDrift": false,
+   "tilt": false,
+   "zoomSlow": false,
+   "stretchPulse": false,
+   "glitchJump": false,
+   "echoTrail": false,
+   "glowFlicker": false,
+   "windGust": false,
+   "dangle": false,
+   "eqBounce": false,
+   "flashBox": false,
+   "glintSweep": false,
+   "flipSwap": false,
+   "shadowSway": false,
+   "magnetJiggle": false,
+   "typeRattle": false,
+   "focusRack": false,
+   "pluckString": false,
+   "knWordPulse": false,
+   "knCounterRock": false,
+   "knWordRide": false,
+   "knTickShift": false,
+   "knBeatLean": false,
+   "knGapBreath": false,
+   "tyKeyPulse": false,
+   "tyReadCursor": false,
+   "tyOutlineBlink": false,
+   "tyTrackStep": false
+  },
+  "exit": {
+   "hrPulledDown": false,
+   "hrLookBack": false,
+   "hrTurnAway": false,
+   "hrShiver": false,
+   "hrSwallow": false,
+   "hrFlickerDie": false,
+   "hrDrain": false,
+   "cut": true,
+   "explode": false,
+   "fall": false,
+   "drift": false,
+   "slice": false,
+   "wipe": false,
+   "shrink": false,
+   "blur": false,
+   "stretch": false,
+   "scatter": false,
+   "glitch": false,
+   "sinkMask": false,
+   "riseOut": false,
+   "slideOutL": false,
+   "slideOutR": false,
+   "flipOutX": false,
+   "flipOutY": false,
+   "foldOut": false,
+   "squash": false,
+   "trackOutWide": false,
+   "collapse": false,
+   "zoomThrough": false,
+   "zoomFar": false,
+   "spinOut": false,
+   "twist": false,
+   "waveOut": false,
+   "blurOutStagger": false,
+   "undraw": false,
+   "outlineOut": false,
+   "irisClose": false,
+   "diagWipeOut": false,
+   "blindsClose": false,
+   "checkerOut": false,
+   "splitApart": false,
+   "vSliceDrop": false,
+   "melt": false,
+   "dissolve": false,
+   "backspace": false,
+   "scrambleOut": false,
+   "glitchDissolve": false,
+   "echoOut": false,
+   "whipOut": false,
+   "gravity": false,
+   "popOut": false,
+   "burn": false,
+   "sweepCover": false,
+   "shatterLite": false,
+   "peelOff": false,
+   "crumpleOut": false,
+   "tearOut": false,
+   "scorchOut": false,
+   "overexposeOut": false,
+   "scanOut": false,
+   "stripesOut": false,
+   "halftoneOut": false,
+   "eraserOut": false,
+   "vacuumOut": false,
+   "sandOut": false,
+   "shredOut": false,
+   "dominoOut": false,
+   "hingeOut": false,
+   "rocketOff": false,
+   "bounceOff": false,
+   "balloonOff": false,
+   "deflateOut": false,
+   "hazeOut": false,
+   "glassBreak": false,
+   "zipOut": false,
+   "clapShut": false,
+   "lampOff": false,
+   "slotOut": false,
+   "clockOut": false,
+   "matrixOut": false,
+   "tornadoOut": false,
+   "rollUpOut": false,
+   "snakeOut": false,
+   "flutterOut": false,
+   "rollOff": false,
+   "fanClose": false,
+   "rgbSplitOut": false,
+   "shockOut": false,
+   "floodOut": false,
+   "slashOut": false,
+   "mosaicOut": false,
+   "scribbleOut": false,
+   "candleOut": false,
+   "knWordKick": false,
+   "knPushOut": false,
+   "knDiveGlyph": false,
+   "knLaunch": false,
+   "knWordBlink": false,
+   "knCloseGap": false,
+   "knJumpCutOut": false,
+   "knStackAway": false,
+   "tyStrike": false,
+   "tyToDot": false,
+   "tyLineFeed": false,
+   "tyBracketClose": false,
+   "tyToIndex": false,
+   "tyKeyLast": false,
+   "tyUnderSink": false,
+   "tyFoldVert": false
+  },
+  "decor": {
+   "hrScratches": false,
+   "hrSigil": false,
+   "hrWatchEye": false,
+   "hrStaticPatch": false,
+   "hrDustBeam": false,
+   "hrDrips": false,
+   "hrCracks": false,
+   "brackets": false,
+   "rings": false,
+   "dots": false,
+   "arrows": false,
+   "slash": false,
+   "sparks": false,
+   "leaders": false,
+   "waveform": false,
+   "barcode": false,
+   "grid": false,
+   "stripes": false,
+   "blobs": false,
+   "bars": false,
+   "shapes": false,
+   "counter": false,
+   "crosshair": false,
+   "cropMarks": false,
+   "reticle": false,
+   "radar": false,
+   "progressRing": false,
+   "timecodeBar": false,
+   "rulerEdge": false,
+   "dimension": false,
+   "indexNum": false,
+   "dateStamp": false,
+   "qrBlock": false,
+   "glitchRects": false,
+   "concentricSquares": false,
+   "triangleSpin": false,
+   "lineBurst": false,
+   "plusGrid": false,
+   "guides": false,
+   "waveLine": false,
+   "spiralLine": false,
+   "halftonePatch": false,
+   "checkerStrip": false,
+   "beatRing": false,
+   "orbitDots": false,
+   "constellation": false,
+   "confetti": false,
+   "petals": false,
+   "rainStreaks": false,
+   "snow": false,
+   "lightLeak": false,
+   "bokeh": false,
+   "speedCorner": false,
+   "risingParticles": false,
+   "twinkle": false,
+   "brushStroke": false,
+   "tapePieces": false,
+   "scribbleCircle": false,
+   "scribbleUnder": false,
+   "crossOut": false,
+   "highlightMark": false,
+   "heartsStars": false,
+   "watermarkKanji": false,
+   "verticalStrip": false,
+   "romajiLine": false,
+   "bracketsJP": false,
+   "seal": false,
+   "kamon": false,
+   "seigaiha": false,
+   "asanoha": false,
+   "hanabi": false,
+   "chochin": false,
+   "shimenawa": false,
+   "sensu": false,
+   "tsukiKumo": false,
+   "momiji": false,
+   "namiGashira": false,
+   "kasumi": false,
+   "hexGrid": false,
+   "spectrumRing": false,
+   "dataColumns": false,
+   "spinner": false,
+   "headingTape": false,
+   "glyphLock": false,
+   "atomOrbit": false,
+   "sonarArcs": false,
+   "circuit": false,
+   "swatches": false,
+   "ruledLines": false,
+   "registration": false,
+   "punchHoles": false,
+   "staple": false,
+   "paperClip": false,
+   "indexTabs": false,
+   "vines": false,
+   "cloudPuffs": false,
+   "starField": false,
+   "moonPhases": false,
+   "sunRays": false,
+   "rainRipples": false,
+   "bubbles": false,
+   "smoke": false,
+   "dandelion": false,
+   "fireflies": false,
+   "memphis": false,
+   "zigzagRibbon": false,
+   "polkaPatch": false,
+   "stripeCircle": false,
+   "decoCorners": false,
+   "halfCircles": false,
+   "loopArrows": false,
+   "starburst": false,
+   "tally": false,
+   "cursorClick": false,
+   "windowChrome": false,
+   "progressBar": false,
+   "toggleSwitch": false,
+   "notifBell": false,
+   "likeCounter": false,
+   "mediaControls": false,
+   "volumeBars": false,
+   "musicNotes": false,
+   "knSpeedTrail": false,
+   "knWordTicks": false,
+   "tyColophon": false,
+   "tyRunningHead": false,
+   "tyGlyphBody": false,
+   "tyTextRule": false,
+   "tyTypeScale": false,
+   "tyBigPunct": false
+  },
+  "treat": {
+   "hrInkBleed": false,
+   "hrEroded": false,
+   "hrRedact": false,
+   "hrDoubleExp": false,
+   "none": true,
+   "knWordScale": false,
+   "knWordPlate": false,
+   "outline": false,
+   "outlineFill": false,
+   "doubleOutline": false,
+   "extrude": false,
+   "longShadow": false,
+   "hardShadow": false,
+   "softShadow": false,
+   "glow": false,
+   "marker": false,
+   "underline": false,
+   "strike": false,
+   "boxed": false,
+   "gradientV": false,
+   "splitColor": false,
+   "halftone": false,
+   "stripes": false,
+   "hatch": false,
+   "dotted": false,
+   "alternate": false,
+   "italic": false,
+   "wide": false,
+   "tall": false,
+   "echoOutline": false,
+   "emphasisDots": false,
+   "neonOutline": false,
+   "chrome": false,
+   "rainbow": false,
+   "glitchSplit": false,
+   "shadowStack": false,
+   "stencilGap": false,
+   "waterline": false,
+   "karaoke": false,
+   "sizeWave": false,
+   "rotateAlt": false,
+   "baselineShift": false,
+   "fauxBold": false,
+   "circled": false,
+   "bracketsQuote": false,
+   "reflection": false,
+   "inline": false,
+   "sticker": false,
+   "gradientSweep": false,
+   "kerningWide": false,
+   "monoGrid": false,
+   "outlineOffset": false,
+   "toneShadow": false,
+   "fadeChars": false,
+   "cutShift": false,
+   "focusPull": false,
+   "spotChar": false,
+   "ransom": false,
+   "tyHollowKey": false,
+   "tyHeadRules": false,
+   "tyHeadBig": false,
+   "tyIndexSup": false
+  },
+  "bg": {
+   "hrFailingLamp": false,
+   "hrCorridor": false,
+   "hrMold": false,
+   "hrDeadTrees": false,
+   "none": true,
+   "auroraRibbons": false,
+   "meshBlobs": false,
+   "duotoneSweep": false,
+   "horizonGlow": false,
+   "seigaiha": false,
+   "asanoha": false,
+   "houndstooth": false,
+   "herringbone": false,
+   "argyle": false,
+   "tartan": false,
+   "chevron": false,
+   "isoCubes": false,
+   "hexGrid": false,
+   "triTess": false,
+   "moire": false,
+   "squareTunnel": false,
+   "spiralArms": false,
+   "topoLines": false,
+   "ridgePlot": false,
+   "starfield": false,
+   "nightMoon": false,
+   "skyline": false,
+   "sunsetSun": false,
+   "oceanWaves": false,
+   "rainWindow": false,
+   "snowLayers": false,
+   "fireworks": false,
+   "cloudLayers": false,
+   "mountains": false,
+   "filmStrip": false,
+   "vhsBand": false,
+   "tornPaper": false,
+   "godRays": false,
+   "vignettePulse": false,
+   "kaleidoscope": false,
+   "marble": false,
+   "paperCut": false,
+   "sunburst": false,
+   "concentric": false,
+   "halftoneFade": false,
+   "bigStripes": false,
+   "splitV": false,
+   "splitH": false,
+   "splitDiag": false,
+   "gradientSweep": false,
+   "spotlight": false,
+   "tvBars": false,
+   "checker": false,
+   "bigChar": false,
+   "speedLines": false,
+   "scanBars": false,
+   "dotGrid": false,
+   "retroGrid": false,
+   "bokehBg": false,
+   "particlesBg": false,
+   "ripples": false,
+   "polka": false,
+   "eqBars": false,
+   "borderFrame": false,
+   "letterbox": false,
+   "noiseField": false
+  },
+  "cam": {
+   "hrNervous": false,
+   "hrDutchSnap": false,
+   "push": true,
+   "orbitDrift": true,
+   "barrelRoll": false,
+   "pendulumSway": false,
+   "focusIn": false,
+   "rackFocus": false,
+   "earthquake": false,
+   "floatNoise": false,
+   "vertigo": false,
+   "tiltDown": false,
+   "spiralIn": false,
+   "snapPan": false,
+   "jelly": false,
+   "knReadPan": false,
+   "knTiltKick": false,
+   "knCardFlip": false,
+   "knShearKick": false,
+   "knJumpCut": false,
+   "knRushIn": false,
+   "pullOut": false,
+   "panL": false,
+   "panR": false,
+   "tiltUp": false,
+   "dutch": false,
+   "handheld": false,
+   "beatPunch": false,
+   "whipIn": false,
+   "crashZoom": false,
+   "bounce": false,
+   "roll": false,
+   "driftDiag": false,
+   "shakeHard": false,
+   "dollyIn": false,
+   "stepZoom": false
+  },
+  "fx": {
+   "hrSubliminal": false,
+   "hrSignalLoss": false,
+   "hrPassingShadow": false,
+   "chroma": false,
+   "shake": false,
+   "slice": false,
+   "block": false,
+   "invert": false,
+   "flash": false,
+   "zoom": false,
+   "mosaic": false,
+   "radialChroma": false,
+   "bloomFlash": false,
+   "bulge": false,
+   "pixelSort": false,
+   "interlace": false,
+   "macroBlock": false,
+   "halftone": false,
+   "duotone": false,
+   "ditherBit": false,
+   "rotateSnap": false,
+   "echoFrames": false,
+   "kaleido": false,
+   "bandInvert": false,
+   "lightRays": false,
+   "anamorphic": false,
+   "heartbeat": false,
+   "tvStatic": false,
+   "dustScratches": false,
+   "filmAdvance": false,
+   "perspectiveTilt": false,
+   "ripple": false,
+   "focusLines": false,
+   "speedLines": false,
+   "starGlint": false,
+   "colorBars": false,
+   "zoomStutter": false,
+   "negativeRing": false,
+   "edgeDetect": false,
+   "shatter": false,
+   "defocus": false,
+   "snapshot": false,
+   "squash": false,
+   "scanBar": false,
+   "loopScroll": false,
+   "panelWipe": false,
+   "irisTrans": false,
+   "doors": false,
+   "blindsTrans": false,
+   "rgbSplit": false,
+   "smear": false,
+   "vhsRoll": false,
+   "trackingNoise": false,
+   "mirrorFlash": false,
+   "strobe": false,
+   "posterize": false,
+   "hueShift": false,
+   "tileShift": false,
+   "filmBurn": false,
+   "whipBlur": false,
+   "blackFrame": false,
+   "whiteFrame": false,
+   "gridRepeat": false,
+   "waveWarp": false,
+   "pixelDrift": false,
+   "zoomPunch": false,
+   "lightSweep": false,
+   "crtOff": false,
+   "splitSlide": false
+  },
+  "trans": {
+   "hrStaticCut": false,
+   "hrBlink": false,
+   "knCornerSwing": false,
+   "knStutterCut": false,
+   "knStripSlam": false,
+   "wipe": false,
+   "diagonalWipe": false,
+   "clockWipe": false,
+   "irisOpen": false,
+   "pushSlide": false,
+   "cover": false,
+   "uncover": false,
+   "zoomThrough": false,
+   "doorsOpen": false,
+   "blinds": false,
+   "checker": false,
+   "blockDissolve": false,
+   "whipPan": false,
+   "spinOut": false,
+   "inkBlob": false,
+   "shatterTiles": false,
+   "sliceShift": false,
+   "cubeTurn": false,
+   "flashCross": false,
+   "pixelate": false,
+   "tyRuleWipe": false,
+   "tyGridCells": false
+  }
+ },
+ "timing": {
+  "bpm": 200,
+  "offset": 1,
+  "snap": false,
+  "tail": 0.9,
+  "lineTimes": {
+   "0": 1.24,
+   "1": 3.629,
+   "2": 5.899,
+   "3": 8.419,
+   "4": 10.45,
+   "5": 12.84,
+   "6": 15.469,
+   "7": 17.509,
+   "8": 20.297,
+   "9": 22.635,
+   "10": 23.536,
+   "11": 25.126,
+   "12": 26.016,
+   "13": 29.547,
+   "14": 30.206,
+   "15": 31.176,
+   "16": 32.195,
+   "17": 34.234,
+   "18": 34.68,
+   "19": 35.25,
+   "20": 36.685,
+   "21": 37.15,
+   "22": 39.25,
+   "23": 40.24,
+   "24": 40.9,
+   "25": 44.1,
+   "26": 46.5,
+   "27": 49.07,
+   "28": 51.35,
+   "29": 54.2,
+   "30": 56.6,
+   "31": 58.8,
+   "32": 60.45,
+   "33": 63.48,
+   "34": 65.2,
+   "35": 68.2,
+   "36": 70.7,
+   "37": 73.2,
+   "38": 75.3,
+   "39": 77.78,
+   "40": 78.46,
+   "41": 79.4,
+   "42": 80.5,
+   "43": 82.55,
+   "44": 83,
+   "45": 83.4,
+   "46": 84.93,
+   "47": 87.33,
+   "48": 88.9,
+   "49": 92.14,
+   "50": 94.69,
+   "51": 97,
+   "52": 99.34,
+   "53": 101.94,
+   "54": 104.25,
+   "55": 106.66,
+   "56": 107.93,
+   "57": 109.12,
+   "58": 111.22,
+   "59": 113.46,
+   "60": 116.37,
+   "61": 118.73,
+   "62": 121.28,
+   "63": 125.71,
+   "64": 128.1,
+   "65": 130.47,
+   "66": 137.7,
+   "67": 138.51,
+   "68": 139.2,
+   "69": 140.44,
+   "70": 142.55,
+   "71": 143,
+   "72": 143.38,
+   "73": 144.96,
+   "74": 147.35,
+   "75": 152.14,
+   "76": 153.91,
+   "77": 156.94,
+   "78": 157.63,
+   "79": 158.54,
+   "80": 159.75,
+   "81": 161.74,
+   "82": 162.22,
+   "83": 162.5,
+   "84": 164.13,
+   "85": 166.53,
+   "86": 167.89,
+   "87": 171.32,
+   "88": 173.72
+  },
+  "lineScale": 1
+ },
+ "overrides": {
+  "0": {
+   "cuts": 1,
+   "cutTech": {
+    "0": {
+     "enter": "cut"
+    }
+   }
+  },
+  "1": {
+   "cutTech": {
+    "0": {
+     "layout": "center",
+     "enter": "cut",
+     "hold": "still",
+     "exit": "cut",
+     "cam": "push",
+     "trans": "none"
+    }
+   },
+   "cutLayouts": {
+    "0": "center"
+   },
+   "cutQuiet": {
+    "0": {
+     "layout": true,
+     "enter": true,
+     "hold": true,
+     "exit": true,
+     "cam": true,
+     "trans": true
+    }
+   },
+   "cuts": 1
+  },
+  "2": {
+   "cuts": 1
+  },
+  "3": {
+   "cuts": 1
+  },
+  "4": {
+   "cuts": 1
+  },
+  "5": {
+   "cuts": 1
+  },
+  "6": {
+   "cuts": 1
+  },
+  "7": {
+   "cuts": 1
+  },
+  "8": {
+   "cuts": 1
+  },
+  "9": {
+   "cuts": 1
+  },
+  "10": {
+   "cuts": 1
+  },
+  "11": {
+   "cuts": 1
+  },
+  "12": {
+   "cuts": 1
+  },
+  "13": {
+   "cuts": 1,
+   "cutTech": {
+    "0": {
+     "layout": "zoomRepeat",
+     "cam": "push"
+    }
+   },
+   "cutLayouts": {
+    "0": "zoomRepeat"
+   },
+   "lock": true,
+   "lockedSeed": 2843002139,
+   "lockedCuts": [
+    {
+     "utext": "終わらぬ",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": -1,
+      "style": "alt",
+      "twist": -3.003441983833909,
+      "q": 1.5096535764308647,
+      "speed": 0.4603682271786965
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "spiralIn",
+     "camP": {
+      "dir": 1,
+      "a0": 5.5623769106064,
+      "d": 0.919282347895205
+     },
+     "scheme": 0,
+     "seed": 3861312521,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "14": {
+   "cuts": 1,
+   "cutTech": {
+    "0": {
+     "layout": "zoomRepeat",
+     "cam": "push"
+    }
+   },
+   "cutLayouts": {
+    "0": "zoomRepeat"
+   },
+   "lock": true,
+   "lockedSeed": 1513467719,
+   "lockedCuts": [
+    {
+     "utext": "苛立ちに",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "fill",
+      "twist": 4.016136146150529,
+      "q": 1.5612464648857713,
+      "speed": 0.37536328899441285
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "orbitDrift",
+     "camP": {
+      "dir": -1,
+      "a0": 1.1514336080290377,
+      "sp": 1.1286989335436375
+     },
+     "scheme": 0,
+     "seed": 185118171,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "15": {
+   "cuts": 1,
+   "cutTech": {
+    "0": {
+     "layout": "zoomRepeat",
+     "cam": "push"
+    }
+   },
+   "cutLayouts": {
+    "0": "zoomRepeat"
+   },
+   "lock": true,
+   "lockedSeed": 872591076,
+   "lockedCuts": [
+    {
+     "utext": "「存在証明」",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "outline",
+      "twist": 5.162112903781235,
+      "q": 1.5669721835106611,
+      "speed": 0.36627450878731904
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "knTiltKick",
+     "camP": {
+      "dir": -1,
+      "a": 2.4677640880458056
+     },
+     "scheme": 0,
+     "seed": 1181171220,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "16": {
+   "cuts": 1,
+   "cutTech": {
+    "0": {
+     "layout": "zoomRepeat"
+    }
+   },
+   "cutLayouts": {
+    "0": "zoomRepeat"
+   },
+   "lock": true,
+   "lockedSeed": 426063318,
+   "lockedCuts": [
+    {
+     "utext": "と名付ける",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": -1,
+      "style": "alt",
+      "twist": -3.5714882612228394,
+      "q": 1.474673592876643,
+      "speed": 0.534272339916788
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "push",
+     "camP": {},
+     "scheme": 0,
+     "seed": 1165750122,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "17": {
+   "cuts": 1,
+   "cutTech": {
+    "0": {
+     "layout": "zoomRepeat",
+     "cam": "push"
+    }
+   },
+   "cutLayouts": {
+    "0": "zoomRepeat"
+   },
+   "lock": true,
+   "lockedSeed": 2415022388,
+   "lockedCuts": [
+    {
+     "utext": "「未完成」",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "fill",
+      "twist": 0,
+      "q": 1.5289690145896748,
+      "speed": 0.5613629411906004
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "rackFocus",
+     "camP": {
+      "b": 7.316179880872369,
+      "at": 0.6790899798972532
+     },
+     "scheme": 0,
+     "seed": 2180791543,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "18": {
+   "cuts": 1,
+   "cutTech": {
+    "0": {
+     "layout": "zoomRepeat",
+     "cam": "push"
+    }
+   },
+   "cutLayouts": {
+    "0": "zoomRepeat"
+   },
+   "lock": true,
+   "lockedSeed": 2520616496,
+   "lockedCuts": [
+    {
+     "utext": "と",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": -1,
+      "style": "outline",
+      "twist": 0,
+      "q": 1.386746043828316,
+      "speed": 0.5474844572832808
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "pullOut",
+     "camP": {
+      "a": 0.07042359750950708
+     },
+     "scheme": 0,
+     "seed": 1759488385,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "19": {
+   "cuts": 1,
+   "cutTech": {
+    "0": {
+     "layout": "zoomRepeat"
+    }
+   },
+   "cutLayouts": {
+    "0": "zoomRepeat"
+   },
+   "lock": true,
+   "lockedSeed": 904459769,
+   "lockedCuts": [
+    {
+     "utext": "句点を打って",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "alt",
+      "twist": -6.250575644895434,
+      "q": 1.473012937917374,
+      "speed": 0.39616776591865344
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "push",
+     "camP": {},
+     "scheme": 0,
+     "seed": 1415126590,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "20": {
+   "cuts": 1,
+   "cutTech": {
+    "0": {
+     "layout": "zoomRepeat",
+     "cam": "push"
+    }
+   },
+   "cutLayouts": {
+    "0": "zoomRepeat"
+   },
+   "lock": true,
+   "lockedSeed": 2589886946,
+   "lockedCuts": [
+    {
+     "utext": "安易に",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "fill",
+      "twist": 0,
+      "q": 1.5158057160815224,
+      "speed": 0.46146036704303695
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "driftDiag",
+     "camP": {
+      "dx": -1,
+      "dy": -1
+     },
+     "scheme": 0,
+     "seed": 3107681466,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "21": {
+   "cuts": 1,
+   "cutTech": {
+    "0": {
+     "layout": "zoomRepeat",
+     "cam": "push"
+    }
+   },
+   "cutLayouts": {
+    "0": "zoomRepeat"
+   },
+   "lock": true,
+   "lockedSeed": 1092791920,
+   "lockedCuts": [
+    {
+     "utext": "全てを括った",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": -1,
+      "style": "alt",
+      "twist": 0,
+      "q": 1.4865933749685063,
+      "speed": 0.43354921411955727
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "tiltUp",
+     "camP": {
+      "a": 0.029103370865341274
+     },
+     "scheme": 0,
+     "seed": 2237403604,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "22": {
+   "cuts": 1,
+   "cutTech": {
+    "0": {
+     "layout": "zoomRepeat",
+     "cam": "push"
+    }
+   },
+   "cutLayouts": {
+    "0": "zoomRepeat"
+   },
+   "lock": true,
+   "lockedSeed": 4146720124,
+   "lockedCuts": [
+    {
+     "utext": "生きる意味など",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "outline",
+      "twist": 0,
+      "q": 1.4999328196747228,
+      "speed": 0.5332245367113501
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "dutch",
+     "camP": {
+      "dir": -1,
+      "a": 4.039959842339158
+     },
+     "scheme": 0,
+     "seed": 512009561,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "23": {
+   "cuts": 1,
+   "cutTech": {
+    "0": {
+     "layout": "zoomRepeat",
+     "cam": "push"
+    }
+   },
+   "cutLayouts": {
+    "0": "zoomRepeat"
+   },
+   "lock": true,
+   "lockedSeed": 442717065,
+   "lockedCuts": [
+    {
+     "utext": "忘れた",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": -1,
+      "style": "alt",
+      "twist": 0,
+      "q": 1.4881837115017698,
+      "speed": 0.5934202196891419
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "pullOut",
+     "camP": {
+      "a": 0.06664235214237124
+     },
+     "scheme": 0,
+     "seed": 2912980639,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "24": {
+   "cuts": 1,
+   "cutTech": {
+    "0": {
+     "layout": "zoomRepeat"
+    }
+   },
+   "cutLayouts": {
+    "0": "zoomRepeat"
+   },
+   "lock": true,
+   "lockedSeed": 877529287,
+   "lockedCuts": [
+    {
+     "utext": "永い夜の中で",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "alt",
+      "twist": 5.593468415550888,
+      "q": 1.5873475465597586,
+      "speed": 0.5415462650940753
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "push",
+     "camP": {},
+     "scheme": 0,
+     "seed": 813258246,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "25": {
+   "cuts": 1,
+   "cutTech": {
+    "0": {
+     "layout": "zoomRepeat",
+     "cam": "push"
+    }
+   },
+   "cutLayouts": {
+    "0": "zoomRepeat"
+   },
+   "lock": true,
+   "lockedSeed": 3559227907,
+   "lockedCuts": [
+    {
+     "utext": "言葉は死ぬように",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "outline",
+      "twist": -6.816946995444596,
+      "q": 1.4354434149898587,
+      "speed": 0.4105807910324074
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "panR",
+     "camP": {
+      "a": 0.022582187184132636
+     },
+     "scheme": 0,
+     "seed": 2206209859,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "26": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 3780360835,
+   "lockedCuts": [
+    {
+     "utext": "無念を残し消えた",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": -1,
+      "style": "alt",
+      "twist": -3.084219974465668,
+      "q": 1.549573034932837,
+      "speed": 0.4728346992866136
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "push",
+     "camP": {},
+     "scheme": 0,
+     "seed": 1498297975,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "27": {
+   "cuts": 1,
+   "cutTech": {
+    "0": {
+     "layout": "tyMargin",
+     "cam": "push"
+    }
+   },
+   "cutLayouts": {
+    "0": "tyMargin"
+   },
+   "lock": true,
+   "lockedSeed": 3287759574,
+   "lockedCuts": [
+    {
+     "utext": "VOCAL：初音ミク",
+     "layout": "tyMargin",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "pos": "bl",
+      "mark": true
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "driftDiag",
+     "camP": {
+      "dx": -1,
+      "dy": -1
+     },
+     "scheme": 0,
+     "seed": 3996538340,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "28": {
+   "cuts": 1,
+   "cutTech": {
+    "0": {
+     "layout": "tyMargin",
+     "cam": "push"
+    }
+   },
+   "cutLayouts": {
+    "0": "tyMargin"
+   },
+   "lock": true,
+   "lockedSeed": 3259637544,
+   "lockedCuts": [
+    {
+     "utext": "SONG：JiMooNOX",
+     "layout": "tyMargin",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "pos": "bl",
+      "mark": true
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "rackFocus",
+     "camP": {
+      "b": 7.105378616135567,
+      "at": 0.6843002614565193
+     },
+     "scheme": 0,
+     "seed": 739423334,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "29": {
+   "cuts": 1,
+   "cutTech": {
+    "0": {
+     "layout": "tyMargin"
+    }
+   },
+   "cutLayouts": {
+    "0": "tyMargin"
+   },
+   "lock": true,
+   "lockedSeed": 2754819042,
+   "lockedCuts": [
+    {
+     "utext": "ILLUST：JiMooNOX",
+     "layout": "tyMargin",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "pos": "br",
+      "mark": false
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "push",
+     "camP": {},
+     "scheme": 0,
+     "seed": 3246561882,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "30": {
+   "cuts": 1,
+   "cutTech": {
+    "0": {
+     "layout": "tyMargin",
+     "cam": "push"
+    }
+   },
+   "cutLayouts": {
+    "0": "tyMargin"
+   },
+   "lock": true,
+   "lockedSeed": 1505096601,
+   "lockedCuts": [
+    {
+     "utext": "VIDEO：JiMooNOX",
+     "layout": "tyMargin",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "pos": "lc",
+      "mark": true
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "floatNoise",
+     "camP": {
+      "f": 1.0847512298263609
+     },
+     "scheme": 0,
+     "seed": 1452835013,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "31": {
+   "cuts": 1
+  },
+  "32": {
+   "cuts": 1
+  },
+  "33": {
+   "cuts": 1
+  },
+  "34": {
+   "cuts": 1
+  },
+  "35": {
+   "cuts": 1
+  },
+  "36": {
+   "cuts": 1
+  },
+  "37": {
+   "cuts": 1
+  },
+  "38": {
+   "cuts": 1
+  },
+  "39": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 798158414,
+   "lockedCuts": [
+    {
+     "utext": "終わらぬ",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": -1,
+      "style": "outline",
+      "twist": 0,
+      "q": 1.4145964709995313,
+      "speed": 0.5867716303560883
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "knTiltKick",
+     "camP": {
+      "dir": -1,
+      "a": 3.095876450277865
+     },
+     "scheme": 0,
+     "seed": 1944093109,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "40": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 607842209,
+   "lockedCuts": [
+    {
+     "utext": "傷口に",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "alt",
+      "twist": -3.558918914757669,
+      "q": 1.5199666360393167,
+      "speed": 0.5869268598267808
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "handheld",
+     "camP": {
+      "f": 1.157860951917246
+     },
+     "scheme": 0,
+     "seed": 2040201080,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "41": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 1284903936,
+   "lockedCuts": [
+    {
+     "utext": "「存在証明」",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": -1,
+      "style": "outline",
+      "twist": 0,
+      "q": 1.5112766838399694,
+      "speed": 0.4450868124491535
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "push",
+     "camP": {},
+     "scheme": 0,
+     "seed": 588851570,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "42": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 2109442489,
+   "lockedCuts": [
+    {
+     "utext": "と名付ける",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": -1,
+      "style": "alt",
+      "twist": 0,
+      "q": 1.5637560613872483,
+      "speed": 0.4200250745285302
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "spiralIn",
+     "camP": {
+      "dir": 1,
+      "a0": 5.882581503102556,
+      "d": 1.1396146055310965
+     },
+     "scheme": 0,
+     "seed": 411090631,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "43": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 2602644464,
+   "lockedCuts": [
+    {
+     "utext": "「未完成」",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": -1,
+      "style": "alt",
+      "twist": 0,
+      "q": 1.5875970827043058,
+      "speed": 0.40725673341657964
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "panR",
+     "camP": {
+      "a": 0.018649299926590174
+     },
+     "scheme": 0,
+     "seed": 3013051452,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "44": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 139786400,
+   "lockedCuts": [
+    {
+     "utext": "と",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": -1,
+      "style": "outline",
+      "twist": 0,
+      "q": 1.4185557792196049,
+      "speed": 0.49892478752881286
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "rackFocus",
+     "camP": {
+      "b": 5.940060894237831,
+      "at": 0.679133786750026
+     },
+     "scheme": 0,
+     "seed": 1806527994,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "45": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 1759107957,
+   "lockedCuts": [
+    {
+     "utext": "句点を打って",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "outline",
+      "twist": 0,
+      "q": 1.4422272129496558,
+      "speed": 0.4546328848460689
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "push",
+     "camP": {},
+     "scheme": 0,
+     "seed": 1725974583,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "46": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 1701356146,
+   "lockedCuts": [
+    {
+     "utext": "そして丸めて捨てた",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "alt",
+      "twist": 0,
+      "q": 1.4542326358798892,
+      "speed": 0.5363336635287851
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "spiralIn",
+     "camP": {
+      "dir": -1,
+      "a0": 3.6217107959929855,
+      "d": 1.126647108141333
+     },
+     "scheme": 0,
+     "seed": 3807729231,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "47": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 1028958451,
+   "lockedCuts": [
+    {
+     "utext": "偽りの曙光に縋って",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": -1,
+      "style": "alt",
+      "twist": -6.526784089393914,
+      "q": 1.5063364105857908,
+      "speed": 0.36492348231840877
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "panR",
+     "camP": {
+      "a": 0.02227856377325952
+     },
+     "scheme": 0,
+     "seed": 19321770,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "48": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 225517450,
+   "lockedCuts": [
+    {
+     "utext": "不器用に祈るのさ",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "fill",
+      "twist": 0,
+      "q": 1.5321832140674814,
+      "speed": 0.40963119282387195
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "push",
+     "camP": {},
+     "scheme": 0,
+     "seed": 3177464739,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "49": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 3088852623,
+   "lockedCuts": [
+    {
+     "utext": "全ては夢だった",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "alt",
+      "twist": -6.652369647286832,
+      "q": 1.5297163054207341,
+      "speed": 0.5831363399862312
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "handheld",
+     "camP": {
+      "f": 1.2939546565292404
+     },
+     "scheme": 0,
+     "seed": 279213635,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "50": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 713462854,
+   "lockedCuts": [
+    {
+     "utext": "のだと嘲笑ってる",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "fill",
+      "twist": 0,
+      "q": 1.4835748429829254,
+      "speed": 0.3519869192619808
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "push",
+     "camP": {},
+     "scheme": 0,
+     "seed": 566908868,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "51": {
+   "cuts": 1
+  },
+  "52": {
+   "cuts": 1
+  },
+  "53": {
+   "cuts": 1
+  },
+  "54": {
+   "cuts": 1
+  },
+  "55": {
+   "cuts": 1
+  },
+  "56": {
+   "cuts": 1
+  },
+  "57": {
+   "cuts": 1
+  },
+  "58": {
+   "cuts": 1
+  },
+  "59": {
+   "cuts": 1
+  },
+  "60": {
+   "cuts": 1
+  },
+  "61": {
+   "cuts": 1
+  },
+  "62": {
+   "cuts": 1
+  },
+  "63": {
+   "cuts": 1
+  },
+  "64": {
+   "cuts": 1
+  },
+  "65": {
+   "cuts": 1
+  },
+  "66": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 2703146836,
+   "lockedCuts": [
+    {
+     "utext": "終わらぬ",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "fill",
+      "twist": 0,
+      "q": 1.3838440695498138,
+      "speed": 0.45566033906070513
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "pullOut",
+     "camP": {
+      "a": 0.06866407839814201
+     },
+     "scheme": 0,
+     "seed": 443082583,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "67": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 2001463452,
+   "lockedCuts": [
+    {
+     "utext": "悔しさに",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "alt",
+      "twist": 0,
+      "q": 1.5234999080188572,
+      "speed": 0.45964702343335373
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "pendulumSway",
+     "camP": {
+      "a": 2.161043498106301,
+      "per": 2.101623797090724,
+      "side": 1
+     },
+     "scheme": 0,
+     "seed": 1580360733,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "68": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 1655014750,
+   "lockedCuts": [
+    {
+     "utext": "「存在証明」",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "fill",
+      "twist": 0,
+      "q": 1.5367375101847573,
+      "speed": 0.5822107825311832
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "spiralIn",
+     "camP": {
+      "dir": -1,
+      "a0": 0.8584176337718964,
+      "d": 1.0958387228660285
+     },
+     "scheme": 0,
+     "seed": 1554531826,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "69": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 2376371965,
+   "lockedCuts": [
+    {
+     "utext": "と名付ける",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "outline",
+      "twist": 6.750389349646866,
+      "q": 1.5887133769411594,
+      "speed": 0.5220576103543862
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "floatNoise",
+     "camP": {
+      "f": 0.8412878435105086
+     },
+     "scheme": 0,
+     "seed": 1033650498,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "70": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 150902719,
+   "lockedCuts": [
+    {
+     "utext": "「未完成」",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": -1,
+      "style": "alt",
+      "twist": -5.765104323625565,
+      "q": 1.3964188955398276,
+      "speed": 0.5507651826133951
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "orbitDrift",
+     "camP": {
+      "dir": -1,
+      "a0": 0.2499549131281674,
+      "sp": 1.350606986344792
+     },
+     "scheme": 0,
+     "seed": 3872605853,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "71": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 332465589,
+   "lockedCuts": [
+    {
+     "utext": "と",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "outline",
+      "twist": 3.234491149894893,
+      "q": 1.382229144051671,
+      "speed": 0.3931770777213387
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "handheld",
+     "camP": {
+      "f": 1.0350206358823926
+     },
+     "scheme": 0,
+     "seed": 3388567104,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "72": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 1975079102,
+   "lockedCuts": [
+    {
+     "utext": "句点を打って",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": -1,
+      "style": "alt",
+      "twist": 6.490193895064294,
+      "q": 1.5958249438460916,
+      "speed": 0.5468144112615846
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "roll",
+     "camP": {
+      "dir": 1,
+      "a": 3.491620434797369
+     },
+     "scheme": 0,
+     "seed": 2320445362,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "73": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 929896133,
+   "lockedCuts": [
+    {
+     "utext": "そして静かに消えた",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "alt",
+      "twist": 0,
+      "q": 1.5689101690985263,
+      "speed": 0.5157574691344052
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "push",
+     "camP": {},
+     "scheme": 0,
+     "seed": 1911240173,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "74": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 1299295418,
+   "lockedCuts": [
+    {
+     "utext": "誰の心にも届かない歌を抱いてた",
+     "layout": "center",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "sx": 1.45,
+      "track": 0.12474423907697202,
+      "sub": true,
+      "under": false,
+      "accent": false,
+      "ox": -0.04317949507385493,
+      "oy": 0.04968350074253976
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "dollyIn",
+     "camP": {
+      "a": 0.09331193254096434
+     },
+     "scheme": 0,
+     "seed": 765044881,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push",
+     "layout": "zoomRepeat"
+    }
+   },
+   "cutLayouts": {
+    "0": "zoomRepeat"
+   }
+  },
+  "75": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 2285127310,
+   "lockedCuts": [
+    {
+     "utext": "この愚かさを",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "fill",
+      "twist": 0,
+      "q": 1.495377535931766,
+      "speed": 0.35481741043040527
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "tiltDown",
+     "camP": {
+      "a": 0.02701866807602346
+     },
+     "scheme": 0,
+     "seed": 591649047,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "76": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 1987437262,
+   "lockedCuts": [
+    {
+     "utext": "皆に押し付けてゆく",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": -1,
+      "style": "alt",
+      "twist": 0,
+      "q": 1.4415005464944988,
+      "speed": 0.4206077811773866
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "knTiltKick",
+     "camP": {
+      "dir": 1,
+      "a": 2.925877440581098
+     },
+     "scheme": 0,
+     "seed": 3771103686,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "77": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 64913963,
+   "lockedCuts": [
+    {
+     "utext": "終わらぬ",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "alt",
+      "twist": 0,
+      "q": 1.5251964111626148,
+      "speed": 0.4180609060800634
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "tiltUp",
+     "camP": {
+      "a": 0.028820591997355222
+     },
+     "scheme": 0,
+     "seed": 3055395450,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "78": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 3923966482,
+   "lockedCuts": [
+    {
+     "utext": "脆弱さに",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": -1,
+      "style": "outline",
+      "twist": 0,
+      "q": 1.460070336535573,
+      "speed": 0.48254203915130345
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "push",
+     "camP": {},
+     "scheme": 0,
+     "seed": 776607150,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "79": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 3197637479,
+   "lockedCuts": [
+    {
+     "utext": "「存在証明」",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": -1,
+      "style": "alt",
+      "twist": 0,
+      "q": 1.4535685578780249,
+      "speed": 0.41475532433250917
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "panL",
+     "camP": {
+      "a": 0.019370611912570893
+     },
+     "scheme": 0,
+     "seed": 1034106915,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "80": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 1972492953,
+   "lockedCuts": [
+    {
+     "utext": "と名付ける",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": -1,
+      "style": "alt",
+      "twist": 0,
+      "q": 1.4791011376539245,
+      "speed": 0.5152486779494211
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "push",
+     "camP": {},
+     "scheme": 0,
+     "seed": 1066215468,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ]
+  },
+  "81": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 4083133064,
+   "lockedCuts": [
+    {
+     "utext": "「未完成」",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "alt",
+      "twist": 0,
+      "q": 1.4384900110447778,
+      "speed": 0.472839457297232
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "pendulumSway",
+     "camP": {
+      "a": 2.404266266897321,
+      "per": 2.1727755235042423,
+      "side": 1
+     },
+     "scheme": 0,
+     "seed": 4151188175,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "82": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 2022322701,
+   "lockedCuts": [
+    {
+     "utext": "と",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "alt",
+      "twist": 0,
+      "q": 1.4833658887213095,
+      "speed": 0.3808760342886671
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "driftDiag",
+     "camP": {
+      "dx": 1,
+      "dy": 1
+     },
+     "scheme": 0,
+     "seed": 3385606477,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "83": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 2769414585,
+   "lockedCuts": [
+    {
+     "utext": "句点を打って",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "outline",
+      "twist": 0,
+      "q": 1.5014767268393188,
+      "speed": 0.5014810136286542
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "focusIn",
+     "camP": {
+      "d": 0.7644330852897838,
+      "b": 13.498726384714246
+     },
+     "scheme": 0,
+     "seed": 4199427473,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "84": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 2613178726,
+   "lockedCuts": [
+    {
+     "utext": "囁きに溶けていく",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "alt",
+      "twist": 0,
+      "q": 1.4831825105380267,
+      "speed": 0.3990205094683915
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "dutch",
+     "camP": {
+      "dir": 1,
+      "a": 2.7221360984258354
+     },
+     "scheme": 0,
+     "seed": 2531808651,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "85": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 2973439438,
+   "lockedCuts": [
+    {
+     "utext": "誰も知らないままに",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "fill",
+      "twist": 0,
+      "q": 1.3865819254470988,
+      "speed": 0.49350001455750314
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "tiltDown",
+     "camP": {
+      "a": 0.030337747659534217
+     },
+     "scheme": 0,
+     "seed": 4142313279,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "86": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 359319570,
+   "lockedCuts": [
+    {
+     "utext": "奏でた終章の中で",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "alt",
+      "twist": 0,
+      "q": 1.5803736925590783,
+      "speed": 0.5613330061547458
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "spiralIn",
+     "camP": {
+      "dir": 1,
+      "a0": 1.6049622047226877,
+      "d": 1.2242627898231149
+     },
+     "scheme": 0,
+     "seed": 4262755377,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "87": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 1211446482,
+   "lockedCuts": [
+    {
+     "utext": "この世界から",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": 1,
+      "style": "alt",
+      "twist": 0,
+      "q": 1.559001580956392,
+      "speed": 0.4684282377362251
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "dollyIn",
+     "camP": {
+      "a": 0.08259387225611135
+     },
+     "scheme": 0,
+     "seed": 673958970,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  },
+  "88": {
+   "cuts": 1,
+   "lock": true,
+   "lockedSeed": 471186734,
+   "lockedCuts": [
+    {
+     "utext": "跡形もなく消えた",
+     "layout": "zoomRepeat",
+     "enter": "cut",
+     "exit": "cut",
+     "hold": "still",
+     "inDur": 0.12,
+     "outDur": 0,
+     "params": {
+      "font": "mincho_light",
+      "dir": -1,
+      "style": "fill",
+      "twist": 0,
+      "q": 1.409900735472329,
+      "speed": 0.38019270714139564
+     },
+     "decor": [],
+     "treat": "none",
+     "treatP": {},
+     "bg": "none",
+     "bgP": {},
+     "cam": "tiltUp",
+     "camP": {
+      "a": 0.026660191188566384
+     },
+     "scheme": 0,
+     "seed": 2776817506,
+     "trans": null,
+     "transP": {},
+     "transDur": 0,
+     "morph": null,
+     "weightGrow": false,
+     "kime": false,
+     "recap": false,
+     "twinParams": null,
+     "events": []
+    }
+   ],
+   "cutTech": {
+    "0": {
+     "cam": "push"
+    }
+   }
+  }
+ },
+ "locks": {
+  "tech": {},
+  "params": {
+   "flash": true,
+   "bgSwitch": true,
+   "glitch": true,
+   "chroma": true,
+   "texture": true,
+   "density": true,
+   "decor": true,
+   "motion": true
+  }
+ },
+ "colors": {
+  "enabled": true,
+  "accent": "#4F4F4F",
+  "ghostA": "#E0E0E0",
+  "ghostB": "#141414",
+  "accentOn": true,
+  "bg": "#11FF00",
+  "fg": "#5E5E5E",
+  "sub": "#2D2D2D"
+ },
+ "fonts": {
+  "display": "mincho_light",
+  "serif": "mincho_light",
+  "body": "mincho_light"
+ },
+ "userFonts": [
+  {
+   "key": "user_UF_crayon_1_1",
+   "label": "crayon_1-1",
+   "family": "UF_crayon_1_1",
+   "weight": 400
+  },
+  {
+   "key": "user_UF__________t_H___g",
+   "label": "ïπé┐éßé±âtâHâôâg",
+   "family": "UF__________t_H___g",
+   "weight": 400
+  }
+ ],
+ "audioName": "261019P_final.wav",
+ "quality": "max",
+ "appVersion": "0.10.0"
+}
